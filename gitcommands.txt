@@ -1,1 +1,8 @@
 git init--->Initializing git repo
+
+git status
+
+git add -A
+
+git commit -m "msg"
+
